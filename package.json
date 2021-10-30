@@ -1,9 +1,13 @@
 {
-  "name": "favorite-booklist",
+  "name": "comp229-007",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "nodemon ./server.js"
+  },
+  "engines": {
+    "node": "14.17.6",
+    "npm": "6.14.15"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -22,5 +26,13 @@
   "main": "server.js",
   "devDependencies": {},
   "author": "Alawi Sayid",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alawis/COMP229007-F2021-MidTerm-301155177.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alawis/COMP229007-F2021-MidTerm-301155177/issues"
+  },
+  "homepage": "https://github.com/alawis/COMP229007-F2021-MidTerm-301155177#readme"
 }
